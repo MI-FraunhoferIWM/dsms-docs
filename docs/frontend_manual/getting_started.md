@@ -34,5 +34,7 @@ If you appreciate our work and wish to cite it, please use the following referen
 
 - **Citation**: Nahshon et al. (2024). *Semantic Orchestration and Exploitation of Material Data: A Dataspace Solution Demonstrated on Steel and Copper Applications*. Advanced Engineering Materials. [Link to the article](https://onlinelibrary.wiley.com/doi/full/10.1002/adem.202401448)
 
-- **BibTeX Entry**: You can use the following BibTeX entry for your reference management: 
+### BibTeX Entry
+You can use the following BibTeX entry for your reference management:
+
 @article{nahshon2024semantic, title={Semantic orchestration and exploitation of material data: A dataspace solution demonstrated on steel and copper applications}, author={Nahshon, Yoav and Morand, Lukas and B{"u}schelberger, Matthias and Helm, Dirk and Kumaraswamy, Kiran and Zierep, Paul and Weber, Matthias and de Andr{'e}s, Pablo}, journal={Advanced Engineering Materials}, pages={2401448}, year={2024}, publisher={Wiley Online Library} }
