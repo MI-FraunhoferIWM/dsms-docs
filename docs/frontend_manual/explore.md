@@ -1,6 +1,6 @@
 # Explore the dataspace
 
-Discover how to explore the dataspace and utilize its features effectively.
+Discover how to explore the dataspace and utilize its features effectively. For an introduction how to navigate to the following functionalities, please refer to the [Navigation section](navigation.md).
 
 - **Free-text Search**: This feature allows you to perform a simple search for k-items stored in the system. You can enter free-text to locate k-items based on their names and associated annotations. To narrow your search to a specific k-type, you can specify the desired k-type.
 
