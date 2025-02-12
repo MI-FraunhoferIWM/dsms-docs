@@ -2,6 +2,8 @@
 
 Welcome to the semantics-based data management platform of your project, built on the data space management system (DSMS) technology stack developed by Fraunhofer IWM. This platform can be accessed through a web frontend or programmatically using the DSMS software development kit [DSMS-SDK](https://dsms-python-sdk.readthedocs.io/en/latest/). This manual provides comprehensive guidelines for utilizing the web frontend. To effectively navigate the platform, it is essential to familiarize yourself with the naming conventions outlined in the following. Additionally, you will find useful information on how to get in touch and how to cite the platform technology.
 
+For more information please refer to (our paper)[https://doi.org/10.1002/adem.202401448]. Alternatively, see the [how to cite section](#how-to-cite).
+
 ## Naming conventions
 
 ### K-items

@@ -31,6 +31,10 @@ Here you will find all the information on how to best use the DSMS.
 
 ```{toctree}
 :hidden: true
+
+.. rubric:: Getting started
+   :class: toc-rubric
+
 getting_started
 frontend_manual/index
 python_sdk
