@@ -13,9 +13,3 @@ ADD . .
 RUN pip install -r requirements.txt
 
 CMD sphinx-autobuild --host 0.0.0.0 docs docs/_build/html
-
-# Build:
-# docker build -f local_build.Dockerfile -t dsms-docs .
-
-# Run:
-# docker run -it --rm -v $PWD:/app -p 8000:8000 dsms-docs
