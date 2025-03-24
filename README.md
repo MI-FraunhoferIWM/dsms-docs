@@ -1,6 +1,8 @@
 # DSMS Docs
 
-This repository hosts the Sphinx user documentation for the DSMS
+This repository hosts the Sphinx user documentation for the DSMS.
+
+The full documentation is available at [https://dsms.readthedocs.io/](https://dsms.readthedocs.io/).
 
 ## Local Rendering
 
